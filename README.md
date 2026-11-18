@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My skills
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_bytes.png)
 
 ```mermaid
 ---
